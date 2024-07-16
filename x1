@@ -1,5 +1,5 @@
 {
-"work":"yes",
+"work":"yes","all":"g_all","b":"g_ng","g":"g_g",
         "check": 
         {"check":"yes","all":"no","point":"x", "type":"", "size":"no"},
             "t":{"a":"","u":""},
